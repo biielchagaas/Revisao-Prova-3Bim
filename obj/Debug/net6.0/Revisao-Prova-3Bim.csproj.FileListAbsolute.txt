@@ -1,0 +1,15 @@
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\bin\Debug\net6.0\Revisao-Prova-3Bim.exe
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\bin\Debug\net6.0\Revisao-Prova-3Bim.deps.json
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\bin\Debug\net6.0\Revisao-Prova-3Bim.runtimeconfig.json
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\bin\Debug\net6.0\Revisao-Prova-3Bim.dll
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\bin\Debug\net6.0\Revisao-Prova-3Bim.pdb
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.csproj.AssemblyReference.cache
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.AssemblyInfoInputs.cache
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.AssemblyInfo.cs
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.csproj.CoreCompileInputs.cache
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.dll
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\refint\Revisao-Prova-3Bim.dll
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.pdb
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\Revisao-Prova-3Bim.genruntimeconfig.cache
+C:\Users\2021102020058\source\repos\Revisao-Prova-3Bim\obj\Debug\net6.0\ref\Revisao-Prova-3Bim.dll

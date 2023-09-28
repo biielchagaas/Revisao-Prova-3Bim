@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Revisao-Prova-3Bim/1.0.0": {
+        "runtime": {
+          "Revisao-Prova-3Bim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisao-Prova-3Bim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
